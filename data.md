@@ -1,0 +1,3 @@
+The Foursquare location data will be used to find the most popular types of dining venues in the largest northeast cities.  
+
+In addition to the Foursquare data the table on this page, https://en.wikipedia.org/wiki/List_of_United_States_cities_by_population, showing the largest cities in the country with populations over 100,000 will be used.  From this table the 50 largest cities in the northeast excluding Providence will be found.  The definition of Northeast I will be using is the following set of states {Pennsylvania, New Jersey, New York, Connecticut, Vermont, New Hampshire, Maine, Massachusetts, Rhode Island}.  The table also provides latitude and longitude information for each city which will be useful for querying the Foursquare API.  
